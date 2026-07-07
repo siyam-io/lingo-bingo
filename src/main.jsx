@@ -96,7 +96,7 @@ const router = createBrowserRouter([
  
   
 ], {
-  basename: "/lingo-bingo"
+  basename: import.meta.env.DEV ? "/" : "/lingo-bingo"
 });
 
 
