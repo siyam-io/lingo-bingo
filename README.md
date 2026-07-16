@@ -1,6 +1,6 @@
-# Lingo Bingo - Vocabulary Learning Application
+﻿# Lingo Bingo - Vocabulary Learning Application
 
-**Live Website**: https://siyam-io.github.io/lingo-bingo/
+**Live Website**: https://siyam-lingo-bingo.vercel.app//
 
 ## Project Description
 Lingo Bingo is an interactive and user-friendly web application designed to help users expand their vocabulary in a fun and structured way. Users can learn new words, tutorials, track their progress, and test their skills.
@@ -20,3 +20,4 @@ Lingo Bingo is an interactive and user-friendly web application designed to help
 - **Framer Motion** (for smooth UI animations)
 - **React Slick** (for sliders)
 - **Lottie React** (for engaging animations)
+
